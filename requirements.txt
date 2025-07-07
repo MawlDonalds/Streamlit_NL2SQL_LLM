@@ -1,0 +1,9 @@
+streamlit==1.36.0
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-google-genai==2.0.1
+langchain-core==0.3.62
+plotly==5.15.0
+pandas==2.0.3
+sqlalchemy==2.0.30
+psycopg2-binary==2.9.9
