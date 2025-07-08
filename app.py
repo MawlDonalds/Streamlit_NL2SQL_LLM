@@ -170,7 +170,7 @@ class SQLCaptureCallback(BaseCallbackHandler):
         return self.raw_data
 
 # Konfigurasi Gemini API (ganti dengan API key Anda)
-GOOGLE_API_KEY = "AIzaSyDNGCMJnCdZhze9ntEXdIPSYJ5ocFOPp6I"  # Ganti dengan API key Anda
+GOOGLE_API_KEY = "AIzaSyC1U2KrsHXvaS1Vx73rCcR9KPn70qCzdyU"  # Ganti dengan API key Anda
 
 # Setup koneksi ke PostgreSQL (ganti dengan kredensial Anda)
 DB_USER = "postgres"
