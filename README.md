@@ -29,7 +29,7 @@ pip install -r requirementes.txt
 ```
 ### Cara RUN
 ```
-  python main2.py
+  streamlit run app.py
 ```
 
 --- 
